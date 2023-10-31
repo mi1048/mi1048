@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning:Deep Learnign algorithms and OpenCV Libraries.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain-wordmark.svg" />
+          
+
 <div>
 <a href="https://github.com/mi1048">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi1048&layout=compact&langs_count=7&theme=dracula"/>
