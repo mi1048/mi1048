@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning:Deep Learnign algorithms and OpenCV Libraries.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain-wordmark.svg" widht="40" height="40"/>
           
 
 <div>
