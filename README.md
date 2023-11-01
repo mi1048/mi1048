@@ -8,7 +8,7 @@
 <div align="center">
 
 
-<img loading="lazy" height="10em" widht="10em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+<img loading="lazy" height="100em" widht="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
           
           
 </div>
