@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Deep Learnign algorithms and OpenCV Libraries.
 
 <div align="center">
-<img loading="lazy" src="https://tenor.com/pt-BR/view/oddkast-funny-cat-gif-27040558">
+<img loading="lazy" src="https://tenor.com/bZCEc.gif">
 </div>
 
 <div>
