@@ -6,7 +6,11 @@
 - 🌱 I’m currently learning: Deep Learnign algorithms and OpenCV Libraries.
 
 <div align="center">
-<img loading="lazy" src="https://tenor.com/bZCEc.gif" width="200">
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" widht="100"/>
+          
+          
 </div>
 
 <div>
