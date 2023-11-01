@@ -1,7 +1,3 @@
-<br><br>
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br><br>
 ### Hi there 👋 Welcome to my GitHub profile. 
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160">
 <div>
@@ -23,6 +19,9 @@
 <img loading="lazy" height="180em" widht="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi1048&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="195em" widht="200em"src="https://github-readme-stats.vercel.app/api?username=mi1048&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<br><br><br><br>
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 <br><br>
 <!--
 **mi1048/mi1048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
